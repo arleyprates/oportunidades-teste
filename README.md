@@ -21,7 +21,7 @@
 ```
 * 4 - Agora, botão direito do projeto -> Team -> Commit -> Marque todos os arquivos e escreva uma mensagem pro commit por exemplo “first commit by MyName"
 
-* 5 - E clique em commit and push -> Em URI: cole a url do repositório https://github.com/carlafagundes/oportunidades-ufba.git -> Next -> Finish -> Ok 
+* 5 - E clique em commit and push -> Em URI: cole a url do repositório https://github.com/arleyprates/oportunidades-ufba.git -> Next -> Finish -> Ok 
 
 * > 5.1 - (Obs) -> O commit será rejeitado mesmo, é a penas para configurar o remote.
 
